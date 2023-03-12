@@ -1,0 +1,50 @@
+U - Uniform
+R - Resource
+L - Locator
+
+```````````````````````````````````````````
+Chapter 5 - Three Rules for creating images
+
+1 Save image in the right formate
+2 Save image at the righr size
+3 use the correct resolution  (perfect   72 pixle per inch )
+
+147 color 
+
+books etc 300 dots per inch (dpi)
+
+`````````````````````````````````````````
+
+When to used Get Method?
+
+. With the get Method , the length of a URL is limited (2,048 characters )
+. Never use GET to send sensitive data (data will be visible in tha URL)
+. GET Method is better for non-secure data , like query string in Google 
+
+````````````````````````````````````````````````
+When to used the Post Method ?
+
+. POST has no size limitation and can be used to send larger amount of data .
+
+```````````````````````````````````````````````````
+
+
+
+
+The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies. Experts are calling this the 4th industrial revolution. We want Pakistan to become a global hub for AI, data science, cloud native computing, edge computing, augmented reality, and internet of things.
+
+Artificial Intelligence
+A ONE YEAR AI PROGRAM DESIGNED FOR ABSOLUTE BEGINNERS.
+GETTING PAKISTAN READY FOR THE NEW ERA OF COMPUTING ENABLED BY THE RISE OF AI.
+
+Cloud Native and Mobile Web Computing Specialist
+A ONE YEAR CLOUD COMPUTING PROGRAM DESIGNED FOR ABSOLUTE BEGINNERS.
+GETTING PAKISTAN READY FOR THE NEW ERA OF MICROSERVICES AND MULTI-CLOUD NATIVE COMPUTING.
+
+BLOCKCHAIN SPECIALIST
+A ONE YEAR BLOCKCHAIN PROGRAM DESIGNED FOR ABSOLUTE BEGINNERS GETTING PAKISTAN READY FOR THE NEW ERA OF BLOCKCHAIN, FINTECH AND SMART CONTRACTS
+
+Internet of Things and
+AI Specialist
+
+A FIFTEEN MONTHS IOT AND AI PROGRAM DESIGNED FOR ABSOLUTE BEGINNERS GETTING PAKISTAN READY FOR THE NEW ERA OF INTERNET OF THINGS AND AI
